@@ -1,15 +1,12 @@
-.conteiner { background-color: black;
-width: 1900px;
-height: 100px;
-display: flex;
+* { margin: 0px; 
+padding: 0px;
+font-family: 'Nunito', sans-serif;
+font-family: 'PT Sans', sans-serif;
+text-decoration: none;}
+.logo { font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans', sans-serif;
 }
-
-
-.two { width: 200px;
-height: 90px;
-background-color: green;}
-.thre { width: 100px;
-height: 90px;
-background-color: yellow;}
-.one { width: 200px;
-height: 90px; background-color: crimson;}
+    .header { justify-content: center;
+    display: flex;
+justify-content: space-between;padding: 15px;
+align-items: center;}
